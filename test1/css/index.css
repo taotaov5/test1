@@ -1,0 +1,102 @@
+#main{
+			width: 1905px;
+		}
+		#header{
+			border: solid 0px;
+			border-color: red;
+			height: 80px;
+			background-color:#292929;
+		    color:white;
+		    text-align:center;
+		    padding:5px;
+		    position:relative;
+		    
+		}
+		.div_header{
+			line-height: 85px;
+            text-align: center;
+            border-width: 0 1px 0px 1px;
+			float:left;
+			width: 100px;
+			height:90px;
+			top: -5px;
+			margin-left:0%;
+			border-style: solid;
+			border-color: black;
+			position:relative;
+			display:;
+			left:64%;
+			font-weight:bold;
+			cursor:pointer;
+		}
+		.div_header:hover{
+			color: #58C93A;
+			border-bottom-width: 4px;
+			border-bottom-color: #58C93A;
+			height: 85px;
+		}
+		#logo{
+			background: url("../img/logo.png")no-repeat 4px 5px;
+			left: 245px;
+			top: 0px;
+			width: 200px;
+			height:100%;
+			position:absolute;
+		}
+		#center{
+			height: 1725px;
+			border-style: solid;
+			border-color: #E1E0E0;
+			border-width: 0px 0px 2px 0px;
+			
+		}
+		#center_main{
+			margin: 0 auto;
+			height: 1725px;
+			width: 70%;
+			border: solid 2px;
+			border-color: #E1E0E0;
+		}
+		
+		#center_bottomdiv{
+			border: solid 1px;
+			border-color: #E1E0E0;
+			height:3%;
+			margin-top:40px;
+			
+		}
+		#buttom{
+			position:absolute;
+			border: solid 0px ;
+			border-color: black;
+			height:400px;
+			width: 1905px;
+			background-color: #F8F8F8;
+		}
+		.title{
+			font-weight: bolder;
+			font-size: 40px;
+		}
+		.titlediv_content{
+			font-size: 20px;
+		}
+		.buttom_div{
+			height: 100px;
+			border: solid 0px;
+			border-color: black;
+		}
+		.buttom_Icon{
+			background-color:#E5E5E5 ;
+			height:50px;
+			margin-left: 20px;
+			float: left;
+			width: 50px;
+			border: solid 0px;
+			border-color: black;
+			position: relative;
+			margin-top: 20px;
+			cursor:pointer;
+		}
+		.buttom_Icon:hover{
+			background-color: #516FAD;
+		}
